@@ -1,3 +1,10 @@
+Prerequisites
+=============
+
+The [OpenCV](http://opencv.org/) library is required; on Mac OS X this can be installed with [Homebrew](http://mxcl.github.com/homebrew/):
+
+    brew install opencv
+
 Installing
 ==========
 
